@@ -1,0 +1,12 @@
+name: ElysiaPotion
+version: '1.0'
+main: elysia.ElysiaPotion
+softdepend:
+  - AttributePlus
+  - PlaceholderAPI
+  - SkillAPI
+  - DragonCore
+commands:
+  ElysiaPotion:
+    aliases:
+      - ep
